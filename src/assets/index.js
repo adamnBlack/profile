@@ -30,6 +30,11 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import foodnome from "./foodnome.png";
+import restolibre from "./restolibre.png";
+import buybackart from "./buybackart.png";
+
+import view from "./view.png"
 export {
   logo,
   backend,
@@ -59,4 +64,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  foodnome,
+  restolibre,
+  buybackart,
+  view
 };

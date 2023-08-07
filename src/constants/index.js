@@ -19,9 +19,9 @@ import {
   starbucks,
   tesla,
   shopify,
-  carrent,
-  jobit,
-  tripguide,
+  buybackart,
+  restolibre,
+  foodnome,
   threejs,
 } from '../assets';
 
@@ -188,16 +188,16 @@ const testimonials = [
 
 const projects = [
   {
-    name: 'Car Rent',
+    name: 'Food Nome',
     description:
-      'Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.',
+      'Home-Based Cook Collective And Online Marketplace, Offering The Tastiest Homemade Meals & Dining Experiences In Your Neighborhood.',
     tags: [
       {
         name: 'react',
         color: 'blue-text-gradient',
       },
       {
-        name: 'mongodb',
+        name: 'Hubspot',
         color: 'green-text-gradient',
       },
       {
@@ -205,50 +205,50 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: carrent,
-    source_code_link: 'https://github.com/adamnBlack',
+    image: foodnome,
+    source_code_link: 'https://foodnome.com',
   },
   {
-    name: 'Job IT',
+    name: 'BuyBackArt',
     description:
-      'Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.',
+      'Web application that  is known for offering the best prices for all pre-owned devices and their valued customers are the biggest witness to their claim.',
     tags: [
       {
         name: 'react',
         color: 'blue-text-gradient',
       },
       {
-        name: 'restapi',
+        name: 'Django',
         color: 'green-text-gradient',
       },
       {
-        name: 'scss',
+        name: 'Market Place',
         color: 'pink-text-gradient',
       },
     ],
-    image: jobit,
-    source_code_link: 'https://github.com/adamnBlack',
+    image: buybackart,
+    source_code_link: 'https://www.buybackart.com',
   },
   {
-    name: 'Trip Guide',
+    name: 'Rest Olibre',
     description:
-      'A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.',
+      'With restolibre you find all the restaurants around you that still have availability. In a few clicks, you make your reservation request and you are notified in real time of the progress of your request.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'Laravel',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'PHP',
         color: 'green-text-gradient',
       },
       {
-        name: 'css',
+        name: 'MySQL',
         color: 'pink-text-gradient',
       },
     ],
-    image: tripguide,
-    source_code_link: 'https://github.com/adamnBlack',
+    image: restolibre,
+    source_code_link: 'https://www.restolibre.com',
   },
 ];
 
